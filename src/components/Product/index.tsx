@@ -1,6 +1,7 @@
 import React from "react";
 
 import tshirtImage from "../../assets/tshirt.png";
+import SellerInfo from "../SellerInfo";
 
 import {
   Container,
@@ -31,7 +32,7 @@ const Product: React.FC = () => {
 
         <Column>
           {/* <ProductAction /> */}
-          {/* <SellerInfo /> */}
+          <SellerInfo />
 
           <WarrantySection />
           <WarrantySection />
