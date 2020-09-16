@@ -7,7 +7,7 @@ UI Clone (Sale Page) - Mercado Livre
 
 <p align="center">
   <a href="https://github.com/rocketseat-content/youtube-clone-mercadolivre/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/rocketseat-content/youtube-clone-mercadolivrecolor=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
+    <img src="https://img.shields.io/github/contributors/rocketseat-content/youtube-clone-mercadolivre?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
   </a>
 </p>
 
